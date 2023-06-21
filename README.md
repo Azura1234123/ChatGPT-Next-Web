@@ -90,11 +90,11 @@ One-Click to get well-designed cross-platform ChatGPT web UI.
 - [x] 分享为图片，分享到 ShareGPT 链接 [#1741](https://github.com/Yidadaa/ChatGPT-Next-Web/pull/1741)
 - [x] 使用 tauri 打包桌面应用
 - [x] 支持自部署的大语言模型：开箱即用 [RWKV-Runner](https://github.com/josStorer/RWKV-Runner) ，服务端部署 [LocalAI 项目](https://github.com/go-skynet/LocalAI) llama / gpt4all / rwkv / vicuna / koala / gpt4all-j / cerebras / falcon / dolly 等等
-- [ ] 插件机制，支持联网搜索、计算器、调用其他平台 api [#165](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/165)
+- [ ] 插件机制，支持联网搜索、计算器、调用其他平台 api 
 
 ## 最新动态
 
-- 🚀 v2.0 已经发布，现在你可以使用面具功能快速创建预制对话了！ 了解更多： [ChatGPT 提示词高阶技能：零次、一次和少样本提示](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/138)。
+- 🚀 v2.0 已经发布，现在你可以使用面具功能快速创建预制对话了！ 了解更多： [ChatGPT 提示词高阶技能：零次、一次和少样本提示]
 - 💡 想要更方便地随时随地使用本项目？可以试下这款桌面插件：https://github.com/mushan0x0/AI0x0.com
 - 🚀 v2.7 现在可以将会话分享为图片了，也可以分享到 ShareGPT 的在线链接。
 - 🚀 v2.8 发布了横跨 Linux/Windows/MacOS 的体积极小的客户端。
@@ -243,8 +243,7 @@ docker run -d -p 3000:3000 \
 ### Shell
 
 ```shell
-bash <(curl -s https://raw.githubusercontent.com/Yidadaa/ChatGPT-Next-Web/main/scripts/setup.sh)
-```
+bash 
 
 ## Screenshots
 
@@ -254,7 +253,6 @@ bash <(curl -s https://raw.githubusercontent.com/Yidadaa/ChatGPT-Next-Web/main/s
 
 ## Donation
 
-[Buy Me a Coffee](https://www.buymeacoffee.com/yidadaa)
 
 ## Special Thanks
 
